@@ -5,7 +5,7 @@ namespace gamitg\JuiTimepicker;
 /**
  * This is just an example.
  */
-class AutoloadExample extends \yii\base\Widget
+class Timepicker extends \yii\base\Widget
 {
     public function run()
     {
