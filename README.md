@@ -13,6 +13,12 @@ Either run
 php composer.phar require --prefer-dist gamitg/yii2-jui-timepicker "*"
 ```
 
+or
+
+```
+php composer require --prefer-dist gamitg/yii2-jui-timepicker "*"
+```
+
 or add
 
 ```
