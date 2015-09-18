@@ -1,0 +1,21 @@
+{
+    "name": "gamitg/yii2-jui-timepicker",
+    "description": "This is extended version of time picker of jui for yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","timepicker","yii2 jui timepicker"," jui timepicker yii2"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "GAMITG",
+            "email": "gamitg@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "gamitg\\JuiTimepicker\\": ""
+        }
+    }
+}
